@@ -37,7 +37,6 @@ build/
 # IntelliJ project files
 .idea
 *.iml
+*.md
 out
 gen
-.mvn
-target
