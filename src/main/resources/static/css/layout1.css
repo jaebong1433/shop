@@ -17,6 +17,7 @@ body{
     text-align: center;
 }
 .content{
+    height: 1600px;
     margin-bottom: 100px;
     margin-top: 50px;
     margin-left: 200px;
