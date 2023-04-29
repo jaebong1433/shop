@@ -10,7 +10,7 @@ import javax.persistence.*;
 @Table(name = "cart")
 @Getter @Setter
 @ToString
-public class Cart {
+public class Cart extends BaseEntity{
     @Id
     @Column(name="cart_id")
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -20,4 +20,9 @@ public class Cart {
     @JoinColumn(name="member_id")//매핑할 외래키를 지정 name속성에는 매핑할 외래캐의 이름을 설정
     private Member member;
 
+    public static Cart createCart(Member member){
+        Cart cart = new Cart();
+        cart.setMember(member);
+        return cart;
+    }
 }
