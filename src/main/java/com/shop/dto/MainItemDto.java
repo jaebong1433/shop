@@ -19,7 +19,12 @@ public class MainItemDto {
 
     //생성자에 @QeuryProjection 어노테이션을 선언하여 Querydsl로 결과 조회 시 MainItemDto 객체로 바로 받아오도록 함
     @QueryProjection
+<<<<<<< HEAD
     public MainItemDto(Long id, String itemNm, String itemDetail, String imgUrl,Integer price){
+=======
+    public MainItemDto(Long id, String itemNm, String itemDetail,
+                       String imgUrl, Integer price){
+>>>>>>> bong/main
         this.id = id;
         this.itemNm = itemNm;
         this.itemDetail = itemDetail;
