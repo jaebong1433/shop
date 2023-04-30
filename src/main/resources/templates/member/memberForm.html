@@ -10,6 +10,9 @@
       color: #bd2130;
     }
 
+    .form-group{
+      height: 500px;
+    }
   </style>
 </th:block>
 
@@ -51,10 +54,13 @@
       <input type="text" th:field="*{address}" class="form-control" placeholder="주소를 입력해주세요" style="width: 450px;">
       <p th:if="${#fields.hasErrors('address')}" th:errors="*{address}" class="fieldError">Incorrect data</p>
 
+      <br>
+      <div style="text-align: left">
+        <button type="submit" class="btn btn-primary" style="">Submit</button>
+      </div>
+
     </div>
-    <div style="text-align: left">
-      <button type="submit" class="btn btn-primary" style="">Submit</button>
-    </div>
+
     <!--
         스프링 시큐리티를 사용할 경우 기본적으로 CSRF(Cross Site Request Forgery)를 방어하기 위해 모든 POST방식의 데이터 전송에는
         CRSF 토큰 값이 있어야함 CRSF토큰은 실제 서버에서 허용한 요청이 맞는지 확인하기 위한 토큰이다.
