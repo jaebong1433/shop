@@ -33,6 +33,6 @@ API : Spring DATA JPA<br>
 ![image](https://user-images.githubusercontent.com/125847340/235641184-c4678fd5-a551-41d3-b7f9-c831f5a24da8.png)
 ![image](https://user-images.githubusercontent.com/125847340/235641211-910e2e2f-3486-41cc-866b-7c41ff35499b.png)
 ![image](https://user-images.githubusercontent.com/125847340/235641247-1d57fb2d-4bce-4648-b5b0-a621abdf6e68.png)
-![image](https://user-images.githubusercontent.com/125847340/235641289-b9e00855-c2a5-439d-8d5f-7a52516ce219.png)
+![image](https://github.com/jaebong1433/shop/assets/125847340/60068f19-d87e-45a1-9d60-b8efe4c19438)
 ![image](https://user-images.githubusercontent.com/125847340/235641333-a0e349c4-f8ff-44ed-a888-d6e8b489f8d6.png)
 
