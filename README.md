@@ -9,7 +9,7 @@ DB : MySQL<br>
 IDE : intellij idea<br>
 빌드도구 : Maven<br>
 라이브러리 : Bootstrap, jQuery, LomBok<br>
-프레임워크 : Spring framework, Spring Boot<br>
+프레임워크 : Spring framework, Spring Boot, Spring Security<br>
 뷰템플릿 : Thymeleaf<br>
 API : Spring DATA JPA<br>
 참고 : chat GPT<br>
