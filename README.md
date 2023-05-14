@@ -14,7 +14,7 @@ IDE : IntelliJ IDEA<br>
 API : Spring DATA JPA<br>
 참고 : chat GPT<br>
 
-![image](https://github.com/jaebong1433/shop/assets/125847340/9edc1f9d-e94d-4756-acb7-d7b11c8ff35f)
+![image](https://github.com/jaebong1433/shop/assets/125847340/b728694c-d98b-4a2b-bbb2-4278b475888f)
 ![image](https://user-images.githubusercontent.com/125847340/235640713-c71604c6-10f4-4262-a9f2-4f881fb3c6cc.png)
 ![image](https://user-images.githubusercontent.com/125847340/235640765-39c93d15-4b4a-4ce2-82e8-235f4a8af084.png)
 ![image](https://user-images.githubusercontent.com/125847340/235640808-54e2db4f-7824-49cd-b63d-67623045af3e.png)
@@ -33,5 +33,5 @@ API : Spring DATA JPA<br>
 ![image](https://github.com/jaebong1433/shop/assets/125847340/db7e5c7a-26ba-44f6-a73c-5a0797cc4e9f)
 ![image](https://user-images.githubusercontent.com/125847340/235641247-1d57fb2d-4bce-4648-b5b0-a621abdf6e68.png)
 ![image](https://github.com/jaebong1433/shop/assets/125847340/af5683a4-9c78-4719-b38e-f9325574def9)
-![image](https://github.com/jaebong1433/shop/assets/125847340/027f3070-abeb-4ff7-9bde-dbd528bb6a6f)
+![image](https://github.com/jaebong1433/shop/assets/125847340/4ef44bf5-c058-45b0-b11d-2c7cda4f9976)
 
