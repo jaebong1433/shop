@@ -6,7 +6,7 @@
 
 프로그래밍 언어 : Java 11, CSS, Html, javascript<br>
 DB : MySQL<br>
-IDE : intellij idea<br>
+IDE : IntelliJ IDEA<br>
 빌드도구 : Maven<br>
 라이브러리 : Bootstrap, jQuery, LomBok<br>
 프레임워크 : Spring framework, Spring Boot, Spring Security, JUnit<br>
