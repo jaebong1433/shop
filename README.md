@@ -12,7 +12,7 @@ IDE : IntelliJ IDEA<br>
 프레임워크 : Spring framework, Spring Boot, Spring Security, JUnit<br>
 뷰템플릿 : Thymeleaf<br>
 API : Spring DATA JPA<br>
-참고 : chat GPT<br>
+참고 : chat GPT, 도서<br>
 
 ![image](https://github.com/jaebong1433/shop/assets/125847340/27ee475f-5b42-4844-af77-ee3df61c36de)
 ![image](https://github.com/jaebong1433/shop/assets/125847340/49ae1a7c-4c38-40b2-ae59-56dec0e8166c)
