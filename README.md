@@ -4,7 +4,7 @@
 안경을 주로 파는 쇼핑몰이며 집에서 편안하게 안경 제품을 선택하고 구매하는 등 고객들에게 온라인 쇼핑의 편리성을 제공합니다.<br>
 주요기능으로는 상품등록, 상품관리, 장바구니, 구매이력 등의 기능을 구현했습니다.
 
-프로그래밍 언어 : Java 11, CSS, Html, javascript<br>
+프로그래밍 언어 : Java 11, CSS, HTML, JavaScript<br>
 DB : MySQL<br>
 IDE : IntelliJ IDEA<br>
 빌드도구 : Maven<br>
